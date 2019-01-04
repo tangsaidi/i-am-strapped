@@ -1,0 +1,45 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.wordWrap": "off",
+    "editor.minimap.enabled": true,
+    "editor.formatOnPaste": false,
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/*.pyc": true
+    },
+    "window.reopenFolders": "all",
+    "window.zoomLevel": -2,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "Knack Nerd Font, Menlo,DejaVu Sans Mono, Consolas,Lucida Console, monospace",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "markdownlint.config": {
+        "MD003": false,
+        "MD013": false,
+        "MD024": false
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.openPositioning": "right",
+    "workbench.sideBar.location": "left",
+    "html.format.wrapLineLength": 0,
+    "html.format.extraLiners": "object",
+    "html.suggest.angular1": false,
+    "html.suggest.ionic": false,
+    "editor.tabSize": 4,
+    "git.enabled": true,
+    "git.autorefresh": true,
+    "git.autofetch": true,
+    "git.countBadge": "all",
+    "css.validate": true,
+    "scss.validate": true,
+    "jsAutolint.defaultLinters": ["eslint", "standard"],
+    "jsAutolint.enable": true,
+    "typescript.check.npmIsInstalled": false,
+    "terminal.integrated.shell.osx": "/usr/local/bin/bash",
+    "terminal.integrated.shell.linux": "/usr/local/bin/bash"
+}
